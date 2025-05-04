@@ -4,7 +4,7 @@
 
 -🌟 I’m driven by the goal of building impactful, real-world projects that solve complex challenges.
 
--🌱 Currently, I’m enhancing my skills in AWS Cloud, Docker, and DevOps tools.
+-🌱 Currently, I’m enhancing my skills in AWS,Azure Cloud, Docker, and DevOps tools.
 
 -🤝 I’m eager to collaborate with like-minded professionals and contribute to open-source projects.
 
