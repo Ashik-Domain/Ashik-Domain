@@ -72,7 +72,6 @@ Currently focusing on:
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-cherukuri)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/Ashik-Domain)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:ashikcherukuri15@gmail.com)
 
 ---
