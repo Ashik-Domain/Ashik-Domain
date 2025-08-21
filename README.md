@@ -58,8 +58,8 @@ Currently focusing on:
 - 🎓 **DevSecOps Training** – Vcube Software Solutions (2025)  
   Completed in-depth training on secure DevOps practices including CI/CD hardening, container security, and policy as code.
 
-- ☁️ **AWS Cloud Virtual Internship** – AWS Academy (2022)  
-  Hands-on experience with core AWS services like EC2, S3, IAM, VPC, and Load Balancing.
+- ☁️ **AWS Cloud Practitioner Essentials** – AWS Skill Builder (2025)  
+  Completed foundational training covering AWS core services, global infrastructure, pricing models, and cloud security. Aligned with Cloud Practitioner certification objectives.
 
 - 🌐 **Cisco Certified Network Associate (CCNA)** – ITN, SRWE, ENSA Modules  
   Gained foundational knowledge in networking, routing & switching, and enterprise network access.
