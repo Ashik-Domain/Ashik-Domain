@@ -50,8 +50,6 @@ Currently focusing on:
 - 🌐 **Cloud Web App Deployments**  
   Live deployments of web applications on **Hostinger**, **AWS**, and **DigitalOcean** for production-ready environments, ensuring scalability and uptime for end users.
   
-- 🌐 **Cloud Web App on Elastic Beanstalk**  
-  Containerized and deployed a web app using **Elastic Beanstalk** for dynamic, scalable hosting.
 
 ---
 
