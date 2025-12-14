@@ -1,84 +1,137 @@
-<h1 align="left">Hi 👋, I'm Cherukuri Ashik</h1>
+<div align="center">
+  <h1>Cherukuri Ashik</h1>
+  <h3>Junior DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD</h3>
 
-<p align="center">
-🚀 DevOps & Cloud Enthusiast | Passionate about automation and infrastructure as code<br>
-🌱 Continuously learning & building real-world projects  
-📍 India | Open to DevOps, SRE, or Cloud opportunities
-</p>
+  <p>
+    📍 Visakhapatnam, India &nbsp;|&nbsp; Open to DevOps / SRE / Cloud Engineer roles
+  </p>
 
----
-
-## 🔍 About Me
-
-I’m a self-driven **DevOps enthusiast** with a strong foundation in Cloud Infrastructure, Automation, and CI/CD.  
-I’m actively exploring a wide range of **Cloud and DevOps tools and technologies** to build scalable infrastructure and automate delivery pipelines.
-
-Currently focusing on:
-- Automating deployments and infrastructure using IaC
-- Learning GitOps, observability, and security practices
-- Contributing to real-world projects to sharpen my skills
+  <p>
+    <a href="https://www.linkedin.com/in/ashik-cherukuri">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ashikcherukuri15@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 Professional Summary
+
+Junior DevOps Engineer with strong hands-on experience in **CI/CD pipeline design, cloud infrastructure automation, containerization, and Kubernetes deployments**. Skilled in building **production-grade DevOps systems** using AWS, Terraform, Docker, Jenkins, and ArgoCD. Passionate about automation, GitOps, cloud security, and reliability engineering. Actively seeking opportunities to contribute to high-impact DevOps and Cloud teams.
+
+---
+
+## 🛠️ Core Skills & Technologies
 
 ### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=flat&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Elastic Beanstalk](https://img.shields.io/badge/Elastic_Beanstalk-PaaS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### 🔁 DevOps Tools & Scripting
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-%235C4EE5.svg?style=flat&logo=argo&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Scripting-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+### 🔁 CI/CD & DevOps Tools
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Version_Control-181717?style=flat-square&logo=github&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-5C4EE5?style=flat-square&logo=argo&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-Container_Security-1904DA?style=flat-square)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-Kubernetes-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### 🧑‍💻 Scripting & OS
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-OS-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 📦 Projects
+## 📦 Projects (Hands-on & Production-Oriented)
 
-- 🔧 [**DevOps Automation Pipeline**](https://github.com/Ashik-Domain/DevOps_Automation_Pipeline):  
-  End-to-end CI/CD pipeline using **Jenkins**, **Trivy**, **ArgoCD**, and **Kubernetes (EKS)**, leveraging GitOps best practices.
+### 🔧 DevOps Automation Pipeline
+**Tech Stack:** Jenkins, Docker, Trivy, ArgoCD, Kubernetes (EKS), GitHub
 
-- 🐳 [**Docker Management System**](https://github.com/Ashik-Domain/Docker_Management):  
-  CLI-based Docker container management tool built with **Bash scripting**.
+- Designed and implemented an end-to-end CI/CD pipeline following **GitOps principles**
+- Automated build, test, containerization, and deployment workflows
+- Integrated **Trivy** for container vulnerability scanning
+- Deployed applications to **AWS EKS** using ArgoCD
+- Reduced manual deployment effort by ~70% through automation
 
-- 🏗️ **3-Tier AWS Architecture with Terraform**  
-  Infrastructure automation using **EC2, RDS, VPC, ALB**, and other services for high availability.
-- 🌐 **Cloud Web App Deployments**  
-  Live deployments of web applications on **Hostinger**, **AWS**, and **DigitalOcean** for production-ready environments, ensuring scalability and uptime for end users.
+🔗 **GitHub:** [DevOps_Automation_Pipeline](https://github.com/Ashik-Domain/DevOps_Automation_Pipeline)
 
-- 🌐 **Cloud Web App on Elastic Beanstalk**  
-  Containerized and deployed a web app using **Elastic Beanstalk** for dynamic, scalable hosting.
+---
+
+### 🐳 Docker Management System
+**Tech Stack:** Bash, Docker, Linux
+
+- Built a CLI-based Docker management tool using shell scripting
+- Automated container lifecycle operations (start, stop, remove, inspect)
+- Improved operational efficiency and reduced repetitive manual commands
+
+🔗 **GitHub:** [Docker_Management](https://github.com/Ashik-Domain/Docker_Management)
+
+---
+
+### 🏗️ 3-Tier AWS Architecture using Terraform
+**Tech Stack:** AWS, Terraform, EC2, RDS, VPC, ALB
+
+- Provisioned a highly available 3-tier architecture using Infrastructure as Code
+- Automated networking, compute, and database layers
+- Followed AWS best practices for scalability and fault tolerance
+
+---
+
+### 🌐 Cloud Web Application Deployments
+**Tech Stack:** AWS, DigitalOcean, Hostinger, Elastic Beanstalk
+
+- Deployed and managed production-ready web applications on multiple cloud platforms
+- Used **Elastic Beanstalk** for scalable container-based deployments
+- Ensured application availability, scalability, and environment consistency
+
+---
+
+## 🚧 Currently Working On
+
+- Implementing monitoring and observability with **Prometheus & Grafana**
+- Learning AWS IAM, security best practices, and cost optimization techniques
+- Strengthening Kubernetes networking, troubleshooting, and RBAC skills
+- Building real-world GitOps workflows and exploring service mesh concepts
 
 ---
 
 ## 🎓 Certifications & Achievements
 
 - 🎓 **DevSecOps Training** – Vcube Software Solutions (2025)  
-  Completed in-depth training on secure DevOps practices including CI/CD hardening, container security, and policy as code.
+  *CI/CD security hardening, container security, policy as code, and DevSecOps practices*
 
 - ☁️ **AWS Cloud Practitioner Essentials** – AWS Skill Builder (2025)  
-  Completed foundational training covering AWS core services, global infrastructure, pricing models, and cloud security. Aligned with Cloud Practitioner certification objectives.
+  *AWS core services, security fundamentals, pricing models, and global infrastructure*
 
 - 🌐 **Cisco Certified Network Associate (CCNA)** – ITN, SRWE, ENSA Modules  
-  Gained foundational knowledge in networking, routing & switching, and enterprise network access.
+  *Networking fundamentals, routing & switching, and enterprise network access*
 
 - 🏅 **SWAYAM NPTEL – Cloud Computing**  
-  Ranked in the **Top 5% nationwide**, demonstrating strong understanding of cloud computing principles and architecture.
+  *Ranked in the **Top 5% nationwide** in cloud computing principles and architecture*
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-cherukuri)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:ashikcherukuri15@gmail.com)
+I'm actively looking for **Junior DevOps / Cloud Engineer opportunities** where I can contribute, learn, and grow.
+
+- 💼 **LinkedIn:** [linkedin.com/in/ashik-cherukuri](https://www.linkedin.com/in/ashik-cherukuri)
+- 📧 **Email:** [ashikcherukuri15@gmail.com](mailto:ashikcherukuri15@gmail.com)
 
 ---
 
+<div align="center">
+  <i>⭐ If you find my projects useful, feel free to star or fork them!</i>
+</div>
 
+---
 
 <!---
 Ashik-Domain/Ashik-Domain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
