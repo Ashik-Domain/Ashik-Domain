@@ -104,11 +104,11 @@ Junior DevOps Engineer with strong hands-on experience in **CI/CD pipeline desig
 
 ## 🎓 Certifications & Achievements
 
+- ☁️ **AWS Cloud Practitioner** (2025)  
+  *AWS core services, security fundamentals, pricing models, and global infrastructure*
+  
 - 🎓 **DevSecOps Training** – Vcube Software Solutions (2025)  
   *CI/CD security hardening, container security, policy as code, and DevSecOps practices*
-
-- ☁️ **AWS Cloud Practitioner Essentials** – AWS Skill Builder (2025)  
-  *AWS core services, security fundamentals, pricing models, and global infrastructure*
 
 - 🌐 **Cisco Certified Network Associate (CCNA)** – ITN, SRWE, ENSA Modules  
   *Networking fundamentals, routing & switching, and enterprise network access*
